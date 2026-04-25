@@ -20,7 +20,7 @@ A single-file CLI tool for managing local administrator accounts on Palo Alto Ne
 
 ## Download
 
-Pre-built binaries are available from the [Releases](../../releases) page.
+Pre-built binaries are available from the [Releases](https://github.com/snell-evan-itt/panos-user-manager/releases) page.
 
 | Platform | File |
 |----------|------|
